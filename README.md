@@ -9,4 +9,4 @@
 People who care about code effeciency are weebs.
 My code is ugly and yours can be too!
 
-      -Ghandi
+      -Gandhi
