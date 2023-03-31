@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayhawker6
-- 👀 I’m interested in Python, Dart, Java, And Kotlin.
-- 🌱 I’m currently learning Kotlin.
+- 👀 I’m interested in C, Python, Dart, and other nerd stuff
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on really anything
 - 📫 You can reach me by messaging or creating bug/issue reports or pull requests.
 
